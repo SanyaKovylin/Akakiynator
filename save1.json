@@ -1,0 +1,55 @@
+
+ { "Is an Animal?" : 
+    {
+    "yes":
+         { "Does it say woof?" : 
+            {
+            "yes":
+                 { "Is true?" : 
+                    {
+                    "yes":"Kvadrober",
+                    "no": "Random Dog"
+                    }
+                },
+            "no": 
+                 { "32" : 
+                    {
+                    "yes":"Ded",
+                    "no": "My cat"
+                    }
+                }
+            }
+        },
+    "no": 
+         { "Does know calculus?" : 
+            {
+            "yes":
+                 { "Does CHUVSTVUET?" : 
+                    {
+                    "yes":"Redkozubych",
+                    "no": 
+                         { "Is it female?" : 
+                            {
+                            "yes":"My mother Yulia Mezhevova",
+                            "no": "Stepa"
+                            }
+                        }
+                    }
+                },
+            "no": 
+                 { "Lies that he is not a kvadrober?" : 
+                    {
+                    "yes":"Ded",
+                    "no": 
+                         { "Is known by Harry Potter?" : 
+                            {
+                            "yes":"Is known by Harry Potter?",
+                            "no": "Sanya - Tea2taler"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

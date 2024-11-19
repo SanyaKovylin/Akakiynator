@@ -1,0 +1,25 @@
+ 
+ { "Is an Animal?" : 
+    {
+    "yes":"My cat",
+    "no":  
+         { "Does know calculus?" : 
+            {
+            "yes": 
+                 { "Does CHUVSTVUET?" : 
+                    {
+                    "yes":"Redkozubych",
+                    "no": "Stepa"
+                    }
+                },
+            "no":  
+                 { "Lies that he is not a kvadrober?" : 
+                    {
+                    "yes":"Ded",
+                    "no": "Sanya - Tea2taler"
+                    }
+                }
+            }
+        }
+    }
+}
